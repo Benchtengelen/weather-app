@@ -12,11 +12,11 @@ You can view the site here
 - VueJS
 - NuxtJS
 
-## Author
-
 ## Waether Api
 
  - OpenWeather
+
+## Author
 
 Feyyaz Yılmaz
 
